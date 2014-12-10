@@ -1,4 +1,3 @@
-NEW MODIF
 
 CONTENTS OF THIS FILE
 ---------------------
