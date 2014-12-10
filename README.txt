@@ -1,4 +1,3 @@
-HACK ME PLEASE :p
 
 CONTENTS OF THIS FILE
 ---------------------
